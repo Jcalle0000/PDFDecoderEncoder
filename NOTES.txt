@@ -1,0 +1,12 @@
+Download the PDFBox standalone jar file
+https://pdfbox.apache.org/download.html
+
+Step 1. 
+// Download the JAR FILE
+//http://www.java2s.com/Code/Jar/o/Downloadorgapachecommonscodecjar.htm
+- this jar file allows us to encode pdfs into base 64
+
+
+Step 2
+Decode and then output with fileOutputStream
+- This is used to write data to a file or to a fileDescriptor
